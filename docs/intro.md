@@ -13,7 +13,7 @@ Welcome to the XAuth documentation! We're thrilled to have you join us as you em
 The easiest, but most important, way to contribute is to voice your opinion and give us feedback.
 We want to hear what you think and appreciate and await your feature suggestions, bug reports and general opinions on everything XAuth has to offer.
 
-Within the XAuth's website, you can navigate to the [**feedback tab**](https://xauthr.ru/feedback).
+Within the XAuth's website, you can navigate to the [**feedback tab**](https://xauth.ru/feedback).
 
 ### Get Started
 
@@ -21,10 +21,10 @@ XAuth offers a wealth of examples in various programming languages to help you i
 
 To get started with XAuth, follow these simple steps:
 
-1. Visit the XAuth GitHub repository at https://github.com/xauth-ru/examples.
+1. Visit the XAuth GitHub repository at https://github.com/xauthorg/examples.
 
 2. Clone the repository to your local machine:
-   `git clone https://github.com/xauth-ru/examples.git` then `cd examples`
+   `git clone https://github.com/xauthorg/examples.git` then `cd examples`
 
 3. Choose the example that best suits your preferred programming language and study the code to gain a deeper understanding of XAuth's implementation.
 

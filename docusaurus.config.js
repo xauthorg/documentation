@@ -44,11 +44,11 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/xauth-ru',
+              href: 'https://github.com/xauthorg',
             },
             {
               label: 'Project Tracker',
-              href: 'https://github.com/orgs/XAuth-ru/projects/2',
+              href: 'https://github.com/orgs/xauthorg/projects/2',
             },
           ],
         },
@@ -69,7 +69,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-          'https://github.com/xauth-ru/documentation/blob/master/',
+          'https://github.com/xauthorg/documentation/blob/master/',
         },
         /*blog: {
           showReadingTime: true,
