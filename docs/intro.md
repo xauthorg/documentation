@@ -32,5 +32,3 @@ To get started with XAuth, follow these simple steps:
 
 Happy coding!
 
-
-
