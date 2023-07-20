@@ -8,6 +8,7 @@ slug: /
 
 Welcome to the XAuth documentation! We're thrilled to have you join us as you embark on your journey to harness the power of the most advanced decentralized authentication solution available today. With a steadfast commitment to privacy, security, and anonymity, XAuth redefines the digital landscape. Dive into our comprehensive guides and resources to help you seamlessly integrate XAuth into your projects, and enjoy a more secure, private, and user-friendly experience. Let's transform the way we authenticate in the digital age together!
 
+![Alt text](/img/banner.jpg)
 ### Feedback
 
 The easiest, but most important, way to contribute is to voice your opinion and give us feedback.
