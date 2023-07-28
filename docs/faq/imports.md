@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
-# 3. Can I import my data?
+# 1. Can I import my data?
 
 Yes, you can import your data into XAuth. To ensure seamless integration and maintain the highest security standards, the XAuth developers will handle the data migration process for you.
 

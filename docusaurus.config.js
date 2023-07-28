@@ -15,6 +15,12 @@ module.exports = {
   organizationName: 'xauth-ru',
   projectName: 'delta',
   themeConfig: {
+    algolia: {
+      appId: 'RHP6MQYRNQ',
+      apiKey: '879ad976effb10b86c749518beeb27f3',
+      indexName: 'xauth',
+
+    },
     navbar: {
       title: 'XAuth',
     },
@@ -61,7 +67,7 @@ module.exports = {
   },
   presets: [
     [
-      '@docusaurus/preset-classic',      
+      '@docusaurus/preset-classic',
       {
         docs: {
           remarkPlugins: [math],
@@ -69,7 +75,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-          'https://github.com/xauthorg/documentation/blob/master/',
+            'https://github.com/xauthorg/documentation/blob/master/',
         },
         /*blog: {
           showReadingTime: true,
